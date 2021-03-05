@@ -47,7 +47,7 @@ function renderState() {
         case 0:
 
             // maintext Pick a number
-            bgtxt.innerHTML = 'I can read your mind';
+            bgtxt.innerHTML = 'I can read your mind...';
             resetBtn.style.visibility = 'Hidden';
             // small text
             smtxt.innerHTML = 'Click Go to start';
